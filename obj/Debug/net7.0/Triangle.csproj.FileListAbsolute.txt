@@ -1,0 +1,15 @@
+F:\computer_science\C#\Triangle\bin\Debug\net7.0\Triangle.exe
+F:\computer_science\C#\Triangle\bin\Debug\net7.0\Triangle.deps.json
+F:\computer_science\C#\Triangle\bin\Debug\net7.0\Triangle.runtimeconfig.json
+F:\computer_science\C#\Triangle\bin\Debug\net7.0\Triangle.dll
+F:\computer_science\C#\Triangle\bin\Debug\net7.0\Triangle.pdb
+F:\computer_science\C#\Triangle\obj\Debug\net7.0\Triangle.csproj.AssemblyReference.cache
+F:\computer_science\C#\Triangle\obj\Debug\net7.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+F:\computer_science\C#\Triangle\obj\Debug\net7.0\Triangle.AssemblyInfoInputs.cache
+F:\computer_science\C#\Triangle\obj\Debug\net7.0\Triangle.AssemblyInfo.cs
+F:\computer_science\C#\Triangle\obj\Debug\net7.0\Triangle.csproj.CoreCompileInputs.cache
+F:\computer_science\C#\Triangle\obj\Debug\net7.0\Triangle.dll
+F:\computer_science\C#\Triangle\obj\Debug\net7.0\refint\Triangle.dll
+F:\computer_science\C#\Triangle\obj\Debug\net7.0\Triangle.pdb
+F:\computer_science\C#\Triangle\obj\Debug\net7.0\Triangle.genruntimeconfig.cache
+F:\computer_science\C#\Triangle\obj\Debug\net7.0\ref\Triangle.dll
